@@ -1,0 +1,61 @@
+.top{
+    background-color:rgb(53,53,53);
+}
+body{
+    color:whitesmoke;
+}
+header{
+    font-size:72px;
+    text-align:center;
+}
+h3{
+    font-size:26px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+img{
+    width:200px;
+    height:200px;
+    margin:10px;
+
+}
+#manywatches{
+    height:250px;
+    width:540px;
+    float:none;
+    margin:2px;
+}
+
+.text{
+    background-color:#1A1818;
+    border-radius:13px;
+    border-style:solid;
+    border-color:#FDEFA6
+}
+#CW{
+    flaot:left;
+}
+
+#titleImage{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:540px;
+}
+
+.watch_container{
+    border:solid #FDEFA6;
+    border-radius:13px;
+    border-width:2px;
+    background-color:#1A1818;
+    margin-left:50px;
+    margin-top:10px;
+}
+
+.all_watches_container img{
+    float:left;
+    margin:10px;
+    max-height:20px;
+    width:200px;
+}
